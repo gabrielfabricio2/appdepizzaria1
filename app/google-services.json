@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202310543160",
+    "project_id": "appdepizzaria1",
+    "storage_bucket": "appdepizzaria1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202310543160:android:d6544a8e6448d19c9843cd",
+        "android_client_info": {
+          "package_name": "com.example.appdepizzaria1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EGJowmmbzn5YheD5oHmdbYunVohSXG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
